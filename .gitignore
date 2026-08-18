@@ -1,0 +1,14 @@
+# 个人数据（绝不上传）
+历史.md
+收藏.md
+favorites.json
+fund.ps1
+
+# 每日生成的文件（不上传）
+今日推荐.html
+bg.jpg
+refresh.bat
+
+# 系统杂物
+Thumbs.db
+Desktop.ini
