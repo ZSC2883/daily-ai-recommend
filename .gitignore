@@ -12,3 +12,6 @@ refresh.bat
 # 系统杂物
 Thumbs.db
 Desktop.ini
+
+# 其他项目遗留日志
+extract_log.txt
